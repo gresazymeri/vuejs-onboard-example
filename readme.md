@@ -10,10 +10,9 @@ First, make sure you have Node.js and npm (the Node.js package manager) installe
 
 Clone the vuejs-onboard-example repository to your local machine using Git:
 
-`git clone https://github.com/[USERNAME]/vuejs-onboard-example.git`
+`git clone https://github.com/gresazymeri/vuejs-onboard-example.git`
 
 Navigate to the project directory:
-
 
 `cd vuejs-onboard-example`
 
